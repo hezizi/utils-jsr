@@ -1,5 +1,8 @@
 {
   "name": "@yuci/utils",
   "version": "0.1.0",
-  "exports": "./main.ts"
+  "exports": "./main.ts",
+  "publish": {
+    "exclude": ["src/*.test.ts"]
+  }
 }
