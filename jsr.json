@@ -1,7 +1,7 @@
 {
   "name": "@yuci/utils",
-  "version": "0.2.0",
-  "exports": "./main.ts",
+  "version": "0.2.1",
+  "exports": "./index.ts",
   "publish": {
     "exclude": ["src/*.test.ts"]
   }

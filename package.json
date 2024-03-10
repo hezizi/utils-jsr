@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "0.1.0",
-  "description": "",
+  "description": "A set of tool functions commonly used in development",
   "main": "index.js",
   "scripts": {
     "test": "vitest"

@@ -1,6 +1,6 @@
 ## @yuci/utils
 
-开发中常用的工具函数集
+A set of tool functions commonly used in development
 
 ### install
 
